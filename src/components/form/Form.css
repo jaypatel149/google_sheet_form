@@ -1,0 +1,18 @@
+
+.container{
+    width: 100%;
+    max-width: 900px;
+}
+
+input {
+    background-color: #F7F7F7;
+    border: 1px solid #CCC;
+    font-size: 16px;
+}
+.invalid-feedback{
+    color: red;
+}
+  
+.bg{
+    background-color: #ebf2f9;
+}
