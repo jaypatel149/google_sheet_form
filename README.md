@@ -1,5 +1,17 @@
 # Getting Started with Create React App
 
+# some used packege like -- formik and yup
+  1. npm install formik --save
+  2. npm i yup  
+# formik difination --- Let's face it, forms are really verbose in React. To make matters worse, most form helpers do wayyyy too much magic and often have a significant performance cost associated with them. Formik is a small library that helps you with the 3 most annoying parts:
+
+  i. Getting values in and out of form state
+  ii. Validation and error messages
+  iii. Handling form submission
+# yup difination --- 
+Yup is a schema builder for runtime value parsing and validation. Define a schema, transform a value to match, assert the shape of an existing value, or both. Yup schema are extremely expressive and allow modeling complex, interdependent validations, or value transformation.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
